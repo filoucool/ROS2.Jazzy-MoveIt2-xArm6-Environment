@@ -1,3 +1,6 @@
 [submodule "Docker"]
 	path = Docker
 	url = https://github.com/filoucool/Dockerized-ROS2-Jazzy.git
+[submodule "src/MoveIt2"]
+	path = src/MoveIt2
+	url = https://github.com/filoucool/moveit2.git
