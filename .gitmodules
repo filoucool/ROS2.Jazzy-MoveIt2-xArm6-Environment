@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = MoveIt
+	url = https://github.com/filoucool/moveit2.git
