@@ -1,7 +1,3 @@
-[submodule "MoveIt2"]
-	path = MoveIt2
-	url = https://github.com/filoucool/moveit2.git
-	branch = main
-[submodule "xArm_Ros2"]
-	path = xArm_Ros2
-	url = https://github.com/filoucool/xarm_ros2.git
+[submodule "Docker"]
+	path = Docker
+	url = https://github.com/filoucool/Dockerized-ROS2-Jazzy.git
