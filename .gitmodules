@@ -4,3 +4,6 @@
 [submodule "src/MoveIt2"]
 	path = src/MoveIt2
 	url = https://github.com/filoucool/moveit2.git
+[submodule "src/xArm_Ros2"]
+	path = src/xArm_Ros2
+	url = https://github.com/filoucool/xarm_ros2.git
